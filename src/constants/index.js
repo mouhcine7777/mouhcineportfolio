@@ -19,6 +19,9 @@ import {
   starbucks,
   tesla,
   shopify,
+  PE,
+  geomtec,
+  involys,
   carrent,
   jobit,
   tripguide,
@@ -54,7 +57,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "NextJS Devloper",
     icon: creator,
   },
 ];
@@ -117,54 +120,55 @@ const technologies = [
 const experiences = [
   {
     title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
-    iconBg: "#383E56",
+    company_name: "geomtec",
+    icon: geomtec,
+    iconBg: "#E6DEDD",
     date: "March 2020 - April 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+"Developing dynamic, user-centric web applications using React.js.",
+"Building reusable components to ensure code maintainability and scalability.",
+"Collaborating with designers and back-end developers to integrate APIs seamlessly.",
+"Optimizing applications for performance and responsiveness across all devices.",
+"Staying ahead of industry trends to implement the latest best practices in React development.",
+"Ensuring the technical feasibility of UI/UX designs.",
+"Debugging and troubleshooting complex issues to enhance user experience."
+
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    title: ".NET Developer",
+    company_name: "involys",
+    icon: involys,
+    iconBg: "#383E56",
+    date: "Jan 2021 - Jan 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developing and maintaining robust web applications using the .NET framework and C#.",
+"Building scalable and high-performance server-side applications with ASP.NET Core.",
+"Designing and implementing RESTful APIs and integrating them with front-end applications.",
+"Working with relational databases like SQL Server for data storage, retrieval, and management.",
+"Utilizing Entity Framework for efficient data access and ORM-based solutions.",
+"Ensuring application security and data protection through industry best practices.",
+"Collaborating with front-end developers to integrate UI components with server-side logic.",
+"Conducting unit testing and debugging to ensure software quality and reliability."
+
+
     ],
   },
   {
     title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
+    company_name: "Public Events",
+    icon: PE,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+"Designing, developing, and maintaining user-friendly websites and web applications.",
+"Creating clean, efficient, and well-documented code using HTML, CSS, and JavaScript.",
+"Ensuring cross-browser compatibility and optimizing websites for performance and speed.",
+"Collaborating with designers and stakeholders to implement engaging and responsive designs.",
+"Integrating third-party APIs and services to enhance functionality.",
+"Troubleshooting and debugging issues to provide seamless user experiences.",
+"Staying updated with the latest web development trends and technologies to continually improve skills and processes."
+
     ],
   },
 ];
@@ -172,24 +176,24 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
+      "I thought it was impossible to make a website as beautiful as our product, but Mouhcine proved me wrong.",
+    name: "Ruby Reyes",
     designation: "CFO",
     company: "Acme Co",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
+      "I've never met a web developer who truly cares about their clients' success like Mouhcine does.",
+    name: "Amine Bouzoubaâ",
     designation: "COO",
     company: "DEF Corp",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
+      "After Mouhcine optimized our website, our traffic increased by 50%. We can't thank them enough!",
+    name: "Billie Walters",
     designation: "CTO",
     company: "456 Enterprises",
     image: "https://randomuser.me/api/portraits/women/6.jpg",

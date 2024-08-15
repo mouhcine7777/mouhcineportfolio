@@ -25,6 +25,10 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import PE from "./company/PE.png";
+import involys from "./company/involys.png";
+import geomtec from "./company/geomtec.png";
+
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -54,6 +58,9 @@ export {
   threejs,
   meta,
   shopify,
+  involys,
+  PE,
+  geomtec,
   starbucks,
   tesla,
   carrent,
