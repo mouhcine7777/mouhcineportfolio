@@ -170,7 +170,7 @@ const experiences = [
 "Staying updated with the latest web development trends and technologies to continually improve skills and processes."
 
     ],
-  },
+  }, 
 ];
 
 const testimonials = [
