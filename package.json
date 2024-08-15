@@ -30,4 +30,11 @@
     "tailwindcss": "^3.2.6",
     "vite": "^4.1.0"
   }
+  "engines": {
+  "node": "18.x"
+}
+"scripts": {
+  "vercel-build": "npm install --legacy-peer-deps && npm run build"
+}
+
 }
